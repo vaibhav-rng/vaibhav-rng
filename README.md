@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vaibhav-rng
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Frontend web development
-- 📫  reach me - vaibhavkaushik1214@gmail.com
+I'm web developer working on these Technologies
+-Angular
+-Node
+-MongoDB
+-Solidity
+-Web3
 
 <!---
 vaibhav-rng/vaibhav-rng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
