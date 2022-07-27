@@ -1,5 +1,5 @@
 I'm web developer working on these Technologies
--Angular
+-Angular </br>
 -Node
 -MongoDB
 -Solidity
